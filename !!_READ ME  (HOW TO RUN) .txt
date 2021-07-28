@@ -1,0 +1,22 @@
+1.Open Codeblocks
+
+2. Press Ctrl+O (or File-> Open)
+
+3. Choose file type as Codeblocks projects (.cbp)
+
+4. Locate this project where you have downloaded it in your system 
+
+5. Choose the "GUESS_GAME_Group.cbp" file
+
+6. Build and run
+
+-----------------------------------------------------
+
+Project by:
+
+19103005: Abhishek
+19103010: Akriti
+19103015: Anmol
+19103020: Anuj
+19103025: Aryan
+19103030: Bhavya

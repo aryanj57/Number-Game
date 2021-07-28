@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1600534076 source:b:\3_c\cpp files\guess_game_group\guess_game_group\main.cpp
+	<iostream>
+	"menu.h"
+
+1600524442 b:\3_c\cpp files\guess_game_group\guess_game_group\menu.h
+	<iostream>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+
+1602417868 source:b:\3_c\cpp files\guess_game_group\guess_game_group\menu.cpp
+	"menu.h"
+
+1600526794 source:b:\3_c\cpp files\guess_game_group\guess_game_group\play.cpp
+	"player.h"
+	"mode.h"
+
+1600505676 b:\3_c\cpp files\guess_game_group\guess_game_group\player.h
+	<iostream>
+	<string>
+
+1600505700 source:b:\3_c\cpp files\guess_game_group\guess_game_group\player.cpp
+	"player.h"
+
+1602423059 b:\3_c\cpp files\guess_game_group\guess_game_group\mode.h
+	<iostream>
+	<windows.h>
+	<fstream>
+	<thread>
+	<iomanip>
+
+1602428115 source:b:\3_c\cpp files\guess_game_group\guess_game_group\mode.cpp
+	"player.h"
+	"mode.h"
+	"result.h"
+
+1600534422 b:\3_c\cpp files\guess_game_group\guess_game_group\result.h
+	<iostream>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+	"player.h"
+
+1602427907 source:b:\3_c\cpp files\guess_game_group\guess_game_group\result.cpp
+	"result.h"
+
+1602432031 source:e:\oops\guess_game_group\main.cpp
+	<iostream>
+	"menu.h"
+
+1600479442 e:\oops\guess_game_group\menu.h
+	<iostream>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+
+1602432031 source:e:\oops\guess_game_group\menu.cpp
+	"menu.h"
+
+1602432031 source:e:\oops\guess_game_group\play.cpp
+	"player.h"
+	"mode.h"
+
+1600460676 e:\oops\guess_game_group\player.h
+	<iostream>
+	<string>
+
+1602378058 e:\oops\guess_game_group\mode.h
+	<iostream>
+	<windows.h>
+	<fstream>
+	<thread>
+	<iomanip>
+
+1602432031 source:e:\oops\guess_game_group\player.cpp
+	"player.h"
+
+1602432031 source:e:\oops\guess_game_group\result.cpp
+	"result.h"
+
+1600489422 e:\oops\guess_game_group\result.h
+	<iostream>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+	"player.h"
+
+1602435211 source:e:\oops\guess_game_group\mode.cpp
+	"player.h"
+	"mode.h"
+	"result.h"
+
+1602387030 source:c:\users\aryan jaiswal\downloads\cscac\main.cpp
+	<iostream>
+	"menu.h"
+
+1600434442 c:\users\aryan jaiswal\downloads\cscac\menu.h
+	<iostream>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+
+1602387030 source:c:\users\aryan jaiswal\downloads\cscac\menu.cpp
+	"menu.h"
+
+1602387030 source:c:\users\aryan jaiswal\downloads\cscac\play.cpp
+	"player.h"
+	"mode.h"
+
+1600415676 c:\users\aryan jaiswal\downloads\cscac\player.h
+	<iostream>
+	<string>
+
+1604185516 c:\users\aryan jaiswal\downloads\cscac\mode.h
+	<iostream>
+	<windows.h>
+	<fstream>
+	<thread>
+	<iomanip>
+
+1602387030 source:c:\users\aryan jaiswal\downloads\cscac\player.cpp
+	"player.h"
+
+1602387030 source:c:\users\aryan jaiswal\downloads\cscac\result.cpp
+	"result.h"
+
+1600444422 c:\users\aryan jaiswal\downloads\cscac\result.h
+	<iostream>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+	"player.h"
+
+1602387030 source:c:\users\aryan jaiswal\downloads\guess_game_upload\main.cpp
+	<iostream>
+	"menu.h"
+
+1606504434 c:\users\aryan jaiswal\downloads\guess_game_upload\menu.h
+	<iostream>
+	<iomanip>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+
+1606553891 source:c:\users\aryan jaiswal\downloads\guess_game_upload\menu.cpp
+	"menu.h"
+
+1606554009 source:c:\users\aryan jaiswal\downloads\guess_game_upload\play.cpp
+	"player.h"
+	"mode.h"
+
+1600415676 c:\users\aryan jaiswal\downloads\guess_game_upload\player.h
+	<iostream>
+	<string>
+
+1604185516 c:\users\aryan jaiswal\downloads\guess_game_upload\mode.h
+	<iostream>
+	<windows.h>
+	<fstream>
+	<thread>
+	<iomanip>
+
+1602387030 source:c:\users\aryan jaiswal\downloads\guess_game_upload\player.cpp
+	"player.h"
+
+1606494846 source:c:\users\aryan jaiswal\downloads\guess_game_upload\result.cpp
+	"result.h"
+	"highscore.h"
+
+1600444422 c:\users\aryan jaiswal\downloads\guess_game_upload\result.h
+	<iostream>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+	"player.h"
+
+1606554076 source:c:\users\aryan jaiswal\downloads\guess_game_upload\mode.cpp
+	"player.h"
+	"mode.h"
+	"result.h"
+
+1606549607 c:\users\aryan jaiswal\downloads\guess_game_upload\highscore.h
+	<iostream>
+	<iomanip>
+	<string>
+	<process.h>
+	<windows.h>
+	<fstream>
+	"player.h"
+
+1606549307 source:c:\users\aryan jaiswal\downloads\guess_game_upload\highscore.cpp
+	"highscore.h"
+

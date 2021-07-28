@@ -1,0 +1,37 @@
+************************************** INSTRUCTIONS **************************************
+
+* Description: This is a number guess game where you are provided number of facts based question
+for which you have to make a rough estimate of the percentage
+
+* If your guess is offset by less than or equal to 10% , you will score +10 points
+
+* No points will be deducted for wrong guess
+
+*******************************************************************************************
+
+* Modes: 
+ 
+1. Versus Mode(2 Player): In this mode, two users will play the game turnwise, whosoever scores better, wins
+
+2. Rapid Fire(1 Player): In this mode, you have only one minute and thirty seconds to make every guess.
+If you cannot make it in time , then a message of "Time's up" will pop and your current score is finalized.
+
+*******************************************************************************************
+
+* Difficulty:
+
+* The game has three set of difficulties , Easy , Medium and Hard
+
+* Easy will consist of 10 questions
+
+* Medium will consist of 15 questions
+
+* Hard will consist of 20 questions
+
+*******************************************************************************************
+
+
+
+				*** THE END ***
+
+
